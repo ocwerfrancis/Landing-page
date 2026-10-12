@@ -5,6 +5,7 @@ import PurposeSection from './components/PurposeSection'
 import FeaturesSection from './components/FeaturesSection'
 import ScheduleSection from './components/ScheduleSection'
 import MonitorSection from './components/MonitorSection'
+import PricingSection from './components/PricingSection'
 
 const App = () => {
   
@@ -17,6 +18,7 @@ const App = () => {
       <FeaturesSection />
       <ScheduleSection />
       <MonitorSection />
+      <PricingSection />
     </div>
   )
 }
