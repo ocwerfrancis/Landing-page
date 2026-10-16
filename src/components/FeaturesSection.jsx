@@ -22,7 +22,7 @@ const FeaturesSection = () => {
   const tints = ["bg-primary/10", "bg-rose-100", "bg-orange-100"];
 
   return (
-    <section className="py-16 md:py-24">
+    <section id="about" className="py-16 md:py-24">
       <div className="w-full max-w-6xl mx-auto px-6 sm:px-8 lg:px-10">
         {/* Heading */}
         <div className="text-center max-w-2xl mx-auto">

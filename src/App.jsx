@@ -8,6 +8,8 @@ import MonitorSection from './components/MonitorSection'
 import PricingSection from './components/PricingSection'
 import ServiceSection from './components/ServiceSection'
 import TestimonialSection from './components/TestimonialSection'
+import NewsLetterSection from './components/NewsLetterSection'
+import Footer from './components/Footer'
 
 const App = () => {
   
@@ -23,6 +25,8 @@ const App = () => {
       <PricingSection />
       <ServiceSection />
       <TestimonialSection />
+      <NewsLetterSection />
+      <Footer />
     </div>
   )
 }
